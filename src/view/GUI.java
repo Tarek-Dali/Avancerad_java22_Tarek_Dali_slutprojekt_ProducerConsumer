@@ -122,7 +122,7 @@ public class GUI extends JFrame {
 		progressBar.setStringPainted(true);
 		progressBar.setString(strTotalProducts + "%");
 		progressBar.setValue(totalProducts);
-		if(totalProducts <= 10 && totalProducts != 0) {
+		if(totalProducts <= 10) {
 			logArea.append("Production is too low\n");
 			progressBar.setForeground(Color.RED);
 		} else if(totalProducts > 10 && totalProducts < 90) {

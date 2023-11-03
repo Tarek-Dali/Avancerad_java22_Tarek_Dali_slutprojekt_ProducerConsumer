@@ -1,10 +1,179 @@
+Worker added
+Worker added
+Worker added
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Production is too low
+Worker 2 produced a product in 3 seconds
+Total producers 3
+Production is too low
+Worker 3 produced a product in 3 seconds
+Total producers 3
+Production is too low
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Production is too low
+Production is too low
+Production is too low
+Production is too low
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Production is too low
+Worker 2 produced a product in 3 seconds
+Total producers 3
+Production is too low
+Worker 3 produced a product in 3 seconds
+Total producers 3
+Production is too low
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Production is too low
+Production Average: 63.0% 
+Worker 2 produced a product in 3 seconds
+Total producers 3
+Production is too low
+Worker 3 produced a product in 3 seconds
+Total producers 3
+Production is too low
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Production is too low
+Production is too low
+Production is too low
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Production is too low
+Worker 2 produced a product in 3 seconds
+Total producers 3
+Production is too low
+Production is too low
+Worker 3 produced a product in 3 seconds
+Total producers 3
+Production is too low
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Production is too low
+Worker 2 produced a product in 3 seconds
+Total producers 3
+Production is too low
+Worker 3 produced a product in 3 seconds
+Total producers 3
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Production is too low
+Production is too low
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Worker 2 produced a product in 3 seconds
+Total producers 3
+Production Average: 58.0% 
+Worker 3 produced a product in 3 seconds
+Total producers 3
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Worker 2 produced a product in 3 seconds
+Total producers 3
+Worker 3 produced a product in 3 seconds
+Total producers 3
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Worker 2 produced a product in 3 seconds
+Total producers 3
+Worker 3 produced a product in 3 seconds
+Total producers 3
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Worker 2 produced a product in 3 seconds
+Total producers 3
+Worker 3 produced a product in 3 seconds
+Total producers 3
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Production Average: 50.0% 
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Worker 2 produced a product in 3 seconds
+Total producers 3
+Worker 3 produced a product in 3 seconds
+Total producers 3
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Worker 2 produced a product in 3 seconds
+Total producers 3
+Worker 3 produced a product in 3 seconds
+Total producers 3
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Worker 2 produced a product in 3 seconds
+Total producers 3
+Worker 3 produced a product in 3 seconds
+Total producers 3
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Production Average: 73.0% 
+Worker 2 produced a product in 3 seconds
+Total producers 3
+Worker 3 produced a product in 3 seconds
+Total producers 3
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Worker 2 produced a product in 3 seconds
+Total producers 3
+Worker 3 produced a product in 3 seconds
+Total producers 3
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Worker 2 produced a product in 3 seconds
+Total producers 3
+Worker 3 produced a product in 3 seconds
+Total producers 3
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Worker 2 produced a product in 3 seconds
+Total producers 3
+Production Average: 50.0% 
+Worker 3 produced a product in 3 seconds
+Total producers 3
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Worker 2 produced a product in 3 seconds
+Total producers 3
+Worker 3 produced a product in 3 seconds
+Total producers 3
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Worker 2 produced a product in 3 seconds
+Total producers 3
+Worker 3 produced a product in 3 seconds
+Total producers 3
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Worker 2 produced a product in 3 seconds
+Total producers 3
+Worker 3 produced a product in 3 seconds
+Total producers 3
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Production Average: 58.0% 
+Worker 1 produced a product in 2 seconds
+Total producers 3
+Worker 2 produced a product in 3 seconds
+Total producers 3
+Worker 3 produced a product in 3 seconds
+Total producers 3
 Worker removed
-Worker added
-Worker added
-Worker added
-Worker removed
-Worker 2 produced a product in 2 seconds
-Production is too high
+Worker 1 produced a product in 2 seconds
 Total producers 2
-Production is too high
+Worker removed
+Worker removed
 
