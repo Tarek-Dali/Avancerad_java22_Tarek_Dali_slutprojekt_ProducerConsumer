@@ -39,9 +39,10 @@ public class SaveToTextFile {
 		}
 	}
 
+	//Gets log string from controller and saves it in indicated path
 	public void save(String log) {
 		
-		String path = "C:/Users/tarek/eclipse-workspace/datum2023-10-31SlutprojektV2/src/Files/log.txt";
+		String path = "src/Files/log.txt";
 		SaveToTextFile sv = new SaveToTextFile();
 		sv.writeData(log, path);
 		sv.readData(path);

@@ -86,7 +86,7 @@ public class GUI extends JFrame {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				controller.removeThread();
-				logArea.append("Worker fired\n");
+				logArea.append("Worker removed\n");
 				
 			}
 		});
@@ -113,6 +113,7 @@ public class GUI extends JFrame {
 	public void printTotalProducers(int totalProducers) {
 		logArea.append("Total producers " + totalProducers + "\n");
 	}
+	
 	
 	public void printProgressBar(int totalProducts) {
 		logArea.setCaretPosition(logArea.getDocument().getLength());

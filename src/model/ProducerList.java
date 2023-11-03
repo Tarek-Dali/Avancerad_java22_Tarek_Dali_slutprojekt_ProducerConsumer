@@ -15,6 +15,8 @@ public class ProducerList {
 		controller.consumers();
 		this.controller = controller;
 	}
+	
+	// Gets producer thread from Controller Starts thread for producer
 
 	public void startThread() {
 		Thread producerThread = controller.getThread();
@@ -22,6 +24,7 @@ public class ProducerList {
 		producerThread.start();
 	}
 
+	// Removes thread from producer threads list and interrupts them, then stops all producers from producing more products
 	public void removeThread() {
 		if (!producerThreadsList.isEmpty()) {
 			Thread removedThread = producerThreadsList.remove(producerThreadsList.size() - 1);

@@ -17,9 +17,9 @@ public class Consumer implements Runnable{
 		this.buffer = buffer;
 	}
 	
+	// Created a random amount of consumers between 3 and 15 and starts thread for each of them
 	public void createConsumer() {
 		int consumerAmount = 3 +(int) (Math.random()*13);
-		
 		
 		for(int i = 0; i < consumerAmount; i++) {
 			Consumer consumer = new Consumer(buffer);
@@ -29,7 +29,7 @@ public class Consumer implements Runnable{
 		}
 	}
 	
-	
+	// Consumer consumes at interval between 1 and 9 seconds and removes product from buffer list
 	@Override
 	public void run() {
 		timeToConsume= (1 + (int) (Math.random() * 9)) * 1000;

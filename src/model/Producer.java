@@ -28,7 +28,9 @@ public class Producer implements Runnable {
 		this.buffer = buffer;
 	}
 	
-
+	// Gives index designation to producer to know which producer it is, for example producer 12.
+	// Producer will get a random interval time to produce a product, time is between 1 and 10 seconds.
+	// Product is added to buffer list
 	@Override
 	public void run() {
 		timeToProduce= (1 + (int) (Math.random() * 9)) * 1000;
@@ -61,6 +63,7 @@ public class Producer implements Runnable {
 
 	}
 	
+	// Creates new producer and thread and returns thread to Controller to be used elsewhere
 	public Thread CreateAndGetThread() {
 		Producer producer = new Producer(buffer);
 		producer.setController(controller);
